@@ -1,3 +1,3 @@
 # Pokedex
  
-Using custom assets, json, icon.
+Using custom assets, json, icons.
